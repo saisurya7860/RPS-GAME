@@ -21,6 +21,7 @@ p{
 .moves-icon{
     width:60px;
     height: 60px;
+    cursor: pointer;
 }
 .move-btn{
     background-color: transparent;
